@@ -1,2 +1,2 @@
 Feature 7:
-- API changed
+- API changed, bugfix
